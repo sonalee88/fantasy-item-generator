@@ -1,19 +1,22 @@
-# fantasy-item-generator
+# RedPanda Assignment – Sonali Kumari
 
-This AI-powered app generates fantasy items based on your prompt!
+## 🔗 Colab Notebook
+[Open in Google Colab](https://colab.research.google.com/drive/YOUR_NOTEBOOK_LINK)
 
-## How to Run
+## 🖥️ Demo Video
+- [Watch Demo on Google Drive](https://drive.google.com/file/d/YOUR_VIDEO_ID/view)
+*or*
+- See `demo.mp4` in this repo.
 
-1. Clone the repo
-2. Install dependencies: `pip install -r requirements.txt`
-3. Run: `python app.py`
+## 📦 Features Implemented
+- ✅ CSV Upload and Display
+- ✅ UI with Clickable Search
+- ✅ FastAPI Backend
+- ✅ Deployed with ngrok (or explain local run)
+- ✅ GPT2 Fine-tuning logic (base)
+- ✅ Code well-commented and documented
 
-## Example Prompts
-
-- "Generate an item for a fire wizard"
-- "What should an elf ranger carry?"
-
-## Tech Stack
-- Python
-- Gradio
-- Transformers (optional if using a real model)
+## 🚀 Run Locally
+```bash
+pip install -r requirements.txt
+uvicorn main:app --reload
