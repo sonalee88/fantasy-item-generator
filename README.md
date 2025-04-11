@@ -1,7 +1,7 @@
 # RedPanda Assignment – Sonali Kumari
 
 ## 🔗 Colab Notebook
-[Open in Google Colab](https://colab.research.google.com/drive/YOUR_NOTEBOOK_LINK)
+[Open in Google Colab](https://colab.research.google.com/drive/1n6xBlQR7tNnmkzc3T0_7b2CFZhjy8Ip3?usp=drive_link)
 
 ## 🖥️ Demo Video
 - [Watch Demo on Google Drive](https://drive.google.com/file/d/YOUR_VIDEO_ID/view)
